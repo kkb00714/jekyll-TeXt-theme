@@ -18,11 +18,13 @@ Github를 사용하여 처음 블로그를 만들어 봤지만, 아직 미숙하
 재미있게 감상해주시면 감사하겠습니다~!
 
 ## 목록
--[첫번째 포스트로 바로가기] ()
 
--[두번째 포스트로 바로가기] ()
+-[첫번째 포스트] (https://kkb00714.github.io/2020/06/03/first-post.html)
 
--[세번째 포스트로 바로가기] ()
+-[두번째 포스트] (https://kkb00714.github.io/2020/06/04/second.html)
+
+-[세번째 포스트] ()
+
 
 ![_config.yml]({{ https://kkb00714.github.io/ }}/images/logo.jpg)
 
