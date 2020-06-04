@@ -23,7 +23,7 @@ Github를 사용하여 처음 블로그를 만들어 봤지만, 아직 미숙하
 
 -[두번째 포스트] (https://kkb00714.github.io/2020/06/04/second.html)
 
--[세번째 포스트] ()
+-[세번째 포스트] (https://kkb00714.github.io/2020/06/03/third.html)
 
 
 ![_config.yml]({{ https://kkb00714.github.io/ }}/images/logo.jpg)
