@@ -33,11 +33,11 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 
 ## => Author and Social
 ##############################
-author: kkb00714
+author: 
   type      : # "person" (default), "organization"
-  name      : v아이브러브v
+  name      : kkb00714
   url       : https://kkb00714.github.io/
-  bio       : 안녕하세요. 게임을 사랑하고 즐기는 v아이브러브v라고 합니다☆
+  bio       : Hi. When you want to join my game play, please email to me. 
   email     : 0furiousblade0@gmail.com
   github    : https://github.io/kkb00714 # "user_name" the last part of your profile url, e.g. https://github.com/user_name
 
