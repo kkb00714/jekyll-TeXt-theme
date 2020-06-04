@@ -34,7 +34,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ## => Author and Social
 ##############################
 author: kkb00714
-  type      : default # "person" (default), "organization"
+  type      : # "person" (default), "organization"
   name      : v아이브러브v
   url       : https://kkb00714.github.io/
   bio       : 안녕하세요. 게임을 사랑하고 즐기는 v아이브러브v라고 합니다☆
