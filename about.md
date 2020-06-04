@@ -1,6 +1,6 @@
 ---
 layout: article
-titles:
+titles: 소개
   # @start locale config
   en      : &EN       About
   en-GB   : *EN
